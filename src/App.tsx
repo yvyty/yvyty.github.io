@@ -29,27 +29,9 @@ const App: FC = () => {
           {/* Example Tool 1 */}
           <Card>
             <CardContent className="p-6">
-              <h3 className="font-semibold text-xl">CLI Starter</h3>
+              <h3 className="font-semibold text-xl">Soon</h3>
               <p className="mt-2 text-gray-600">
-                A lightweight CLI scaffold for fast development.
-              </p>
-            </CardContent>
-          </Card>
-          {/* Example Tool 2 */}
-          <Card>
-            <CardContent className="p-6">
-              <h3 className="font-semibold text-xl">Framework X</h3>
-              <p className="mt-2 text-gray-600">
-                An intuitive micro-framework for rapid API development.
-              </p>
-            </CardContent>
-          </Card>
-          {/* Example Tool 3 */}
-          <Card>
-            <CardContent className="p-6">
-              <h3 className="font-semibold text-xl">Prompt Tools</h3>
-              <p className="mt-2 text-gray-600">
-                Utilities to streamline AI prompt engineering workflows.
+                -
               </p>
             </CardContent>
           </Card>
