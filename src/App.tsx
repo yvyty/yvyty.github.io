@@ -17,7 +17,9 @@ const App: FC = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Button className="text-lg px-8 py-4">Visit Our GitHub</Button>
+            <Button className="bg-gray-800 text-white hover:bg-gray-700 px-8 py-4 text-lg rounded-lg">
+              Visit Our GitHub
+            </Button>
           </a>
         </div>
       </header>
